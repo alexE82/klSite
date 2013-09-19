@@ -46,7 +46,7 @@
             <div class="container span12">
                 <div id="da-slider" class="da-slider">
                     <div class="da-slide">
-                        <h2>IT Support</h2>
+                        <h2>Our IT Support</h2>
                         <p>When something goes wrong with your IT, everything grinds to a halt. With a standard break/fix service contract, you have to wait for something to break before your provider can fix it. That equation seems to make sense – even though it could easily result in hours of downtime. But what if you could keep your IT from breaking in the first place?</p>
                         <a href="it-support.php" class="da-link">Learn more...</a>
                         <div class="da-img"><img src="_images/1.png" alt="IT Support" /></div>
