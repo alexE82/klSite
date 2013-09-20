@@ -4,7 +4,11 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <name>GIT-TNT</name>
+=======
+            <name>TNT-Git</name>
+>>>>>>> firstBranch
 =======
             <name>TNT-Git</name>
 >>>>>>> firstBranch
