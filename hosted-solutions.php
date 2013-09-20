@@ -45,7 +45,7 @@
                 <h3>Hosted Solutions</h3>
 
                 <h5>Take your productivity to the next level</h5><br>
-                <p> Having the right tools for meaningful collaboration is a critical element of your success.
+                <p> Having the right tools and right place for meaningful collaboration is a critical element of your success.
                     That’s why so many businesses depend on software like Microsoft SharePoint and Exchange to keep things running smoothly. But what if you could outsource all the stress this technology creates and enjoy only the benefits? With Hosted Services from TNT Solutions that’s exactly what you get.</p>
                 <br><br><br>
 

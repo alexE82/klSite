@@ -44,7 +44,8 @@
                 <h3>Networking Solutions</h3>
                 <br><br>
 
-                <p> TNT Solutions provides both wired and wireless networking solutions for your business, ensuring you have the correct physical networking solution – whether you have 10 or 500 users. Our solution covers planning, implementing and managing networks onsite and remotely from our head office ensuring maximum efficiency of communications.</p>
+                <p> TNT Solutions provides both wired and wireless networking solutions for your business, ensuring you have the correct physical networking solution – whether you have 10 or 500 users. </p>
+               <p> Our solution covers planning, implementing and managing networks onsite and remotely from our head office ensuring maximum efficiency of communications.</p>
 <br><br><br>
                 <h5>Wired benefits include:</h5><br>
 
