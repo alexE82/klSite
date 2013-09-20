@@ -78,7 +78,7 @@
         </div>
 
         <div class="span12 row-fluid">
-            <div class="info" id="about"><h3>About As</h3><p>TNT Solutions specialists is a team of highly skilled and motivated computer administrators and engineers.</p>
+            <div class="info" id="about"><h3>About As</h3><p>TNT Solutions specialists is a Big team of highly skilled and motivated computer administrators and engineers.</p>
 
                 <p>We provide a total IT solution for your business allowing you to focus on your goals while we focus on providing IT solutions for those goals.</p></div>
             <div class="info" id="mission"><h3>Our Mission</h3><p>Providing first class service and support and committing to deliver to our clients at a competitive cost, while adding value to their IT investment.</p>
