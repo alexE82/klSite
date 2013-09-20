@@ -1,3 +1,4 @@
-dir_to_ignore/nbproject
-dir_to_ignore/_images
 ignore.txt
+/_images/
+/_scripts/
+/_css/
